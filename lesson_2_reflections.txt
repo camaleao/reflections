@@ -1,0 +1,20 @@
+Viewing a difference between two versions helps to compare the version that was working with the new version.
+If the new version is not working is possible to check all the changes and easily spot what went wrong.
+
+Access the entire history of a file can make understand better the code and always keep it improving.
+
+The pro of choosing when to create a commit is that you can create a version control of logical block of changing.
+The con is that maybe you lose something because you forget to save or there are many changes.
+
+Control systems like Git allow saving multiple files in one commit because they are intended for code programming.
+
+The command git log shows the log of all commits made.
+The command git diff compare two commits.
+
+Version control makes me more confident to make changes because I can easily revert it to old working code and
+git can indicates me where are the differences to quick spot where is the error.
+
+I need to use Git at the Android course, but first I need to finish this one.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Maybe staging area is a temporary place to use before you know what will be in the final project (repository).
