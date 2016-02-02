@@ -12,3 +12,6 @@ It's better to understand the whole sctructure and it can show me inaccessible b
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 Merging results in summing up two or more branches so the new added or deleted lines between two or more files will be in the same one. Two or more branches points to only one point to indication the join.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Git's automatic merging is much easier and faster versus when you need to do it manually.
