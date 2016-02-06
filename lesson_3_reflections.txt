@@ -1,2 +1,5 @@
 When would you want to use a remote repository rather than keeping all your work local?
 A remote repository is useful when you want to share your code with other people, get contributions and is also a good way to backup.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+Manually you have control about what you want to expose to other people.
