@@ -12,3 +12,7 @@ a special branch or you can merge branches too.
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 You can know what is the exactly code other people are working on.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+To collaborate without using Git or GitHub would be necessary to exchange several files often.
+Only at the first few steps it would be easier, but after that it would become a mess.
